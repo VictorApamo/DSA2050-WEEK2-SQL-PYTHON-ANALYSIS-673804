@@ -1,8 +1,7 @@
 # DSA 2050 - Week 2 Practical Lab: SQL, Data Acquisition and Join Validation
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Lecturer:** Austin Odera
+**Name:** VICTOR APAMO
+**Student ID:** 673804
 
 ## Objective
 This project is the DSA 2050 Week 2 practical lab. It builds three small source datasets (customers, orders and a JSON region lookup) that contain deliberate quality issues, loads them into SQLite, and uses SQL and pandas to filter, aggregate and join the data. The focus is on relational keys and grain: detecting a duplicate customer key and an unmatched order customer, observing how they distort a JOIN, reconciling row counts and sales totals before and after the join, correcting the key problem, and then producing trustworthy segment and regional sales KPIs with short evidence-based interpretations.
